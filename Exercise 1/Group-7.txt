@@ -157,21 +157,21 @@ footer{
         <div class="info">
             <p><strong>Age:</strong> 21</p>
             <p><strong>Course:</strong> BS Information Technology</p>
-            <p><strong>Hobbies:</strong>Basketball, Singing, Motorcycling, Online Games</p>
+            <p><strong>Hobbies:</strong> Coding, Basketball</p>
             <p><strong>Nick name:</strong> Lucky</p>
         </div>
     </div>
 
 <!-- Member 5 -->
     <div class="card">
-        <img src="billy.jpg" alt="Billy Naire L. Nombre ">
-        <h2>Billy Naire L. Nombre</h2>
+        <img src="billy.jpg" alt="Billy Naire ">
+        <h2>Billy Naire</h2>
         <h4>Web Debugging</h4>
 
         <div class="info">
             <p><strong>Age:</strong> 20</p>
             <p><strong>Course:</strong> BS Information Technology</p>
-            <p><strong>Hobbies:</strong>basketball, Volleyball, Dancing, Online Games</p>
+            <p><strong>Hobbies:</strong> Coding, Basketball</p>
             <p><strong>Nick name:</strong> Billy</p>
         </div>
     </div>
@@ -179,14 +179,14 @@ footer{
 
 <!-- Member 6 -->
     <div class="card">
-        <img src="suhail.jpg" alt="Suhaylah Langco">
-        <h2>Suhaylah Langco</h2>
+        <img src="suhail.jpg" alt="Suhail Mariano ">
+        <h2>Suhail Mariano</h2>
         <h4>Web Debugging</h4>
 
         <div class="info">
-            <p><strong>Age:</strong> 22</p>
+            <p><strong>Age:</strong> 20</p>
             <p><strong>Course:</strong> BS Information Technology</p>
-            <p><strong>Hobbies:</strong>Motorcycling</p>
+            <p><strong>Hobbies:</strong> Coding, Basketball</p>
             <p><strong>Nick name:</strong> Suhail</p>
         </div>
     </div>
@@ -201,25 +201,18 @@ footer{
         <div class="info">
             <p><strong>Age:</strong> 19</p>
             <p><strong>Course:</strong> BS Information Technology</p>
-            <p><strong>Hobbies:</strong> Volleyball, Singing, Dancing</p>
-            <p><strong>Nick name:</strong> Dani</p>
+            <p><strong>Hobbies:</strong>Valleyball,Singing, Dancing</p>
+            <p><strong>Nick name:</strong> Ella/Dani</p>
         </div>
     </div>
 
 
 
 
-    </div>
+       </div>
 
     </div>
 
-
-
-</body>
-</html>
-<footer>
-    © 2026 | BSIT Team Profile @University Of Muntinlupa City
-</footer>
 
 </body>
 </html>
